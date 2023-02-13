@@ -5,6 +5,6 @@ Integrantes do grupo:
 Luiz Gustavo
 Jorge Vinicius
 Samara
-Gabrielle
+Gabrielly
 Guttenberg
 Edilene
