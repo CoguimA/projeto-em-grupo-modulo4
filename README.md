@@ -1,4 +1,8 @@
-
+ link para apresentação: 
+ 
+ https://www.canva.com/design/DAFafT_Hpwk/y_FS40aqBC3zGHKYxjP3RA/view?utm_content=DAFafT_Hpwk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink 
+ 
+ 
 ![DIAGRAMA - BANCO DE DADOS RESILIA](imagens/modelo.jpeg)
 
 O objetivo deste projeto é a manipular e visualizar os dados inseridos em um banco de dados SQL em uma ferramenta como o MySQL. Assim, o projeto foi dividido em algumas etapas:
@@ -35,9 +39,13 @@ FERRAMENTAS UTILIZADAS:
 PERGUNTAS:
 
 🟢 Qual o estilo do game que foi menos jogado? 
+
 🟢 Qual o estilo do game que foi mais jogado? 
+
 🟢 Qual o nível de dificuldade mais jogado? 
+
 🟢 Qual o nível de dificuldade menos jogado?
+
 🟢 Qual a porcentagem de jogadores que obteve mais de 20.000 pontos?
 
 DASHBOARD 
