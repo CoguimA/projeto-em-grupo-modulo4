@@ -13,12 +13,17 @@ O objetivo deste projeto é a manipular e visualizar os dados inseridos em um ba
 ![EQUIPE](imagens/2.png)
 
 TIME: 
-🟢 Edilene  - 
-🟢 Gabrielly -
-🟢 Guttenberg - 
-🟢 J. Vinicius -
-🟢 L. Gustavo -
-🟢 Samara  - 
+🟢 Edilene  - https://github.com/EdileneTrajano
+
+🟢 Gabrielly - https://github.com/GabriellyMedeiros
+
+🟢 Guttenberg - https://github.com/GuttenbergJr
+
+🟢 J. Vinicius - https://github.com/viniciusroccha
+
+🟢 L. Gustavo -  https://github.com/CoguimA
+
+🟢 Samara  - https://github.com/SamaraCSSLima
 
 FERRAMENTAS UTILIZADAS: 
 🔴 XAMPP 
