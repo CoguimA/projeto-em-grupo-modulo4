@@ -8,3 +8,5 @@ Samara
 Gabrielly
 Guttenberg
 Edilene
+
+![DIAGRAMA - BANCO DE DADOS RESILIA](imagens/modelo.jpeg)
